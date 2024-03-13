@@ -1,7 +1,8 @@
 JOSE ANTONIO PEREZ ISLAS
 
-Diseño de Videjuegos
+Proyecto App
 
-Hector Guerrero
 
-En esta materia vemos el como es el desarrollo de juegos y como es que esteticamente hablando todo lo que se haga en un juego tiene que estar acorde a este de forma visual, como tambien vemos diferentes herramientas de trabajo para crear difernetes tipos de juegos sin codigo, ya sea juego de mesa, juegos de texto etc.
+Sebastian Mejia
+
+En esta vemos lenguajes y programas aracaicos para realizar esquemas, como los de caso de usos y my SQL, ademas de latex para redaccion de texto (en Lugar de .md que es mas facil y practico para casos reales) (Enseñenos tambien desarrollo de app profe, andale)
