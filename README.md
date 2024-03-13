@@ -13,8 +13,15 @@ Alcides Albora
 
 En esta clase, vemos que son y como son los funcionamientos basicos de una computadora, entiendo cuales son algunas funciones ocultas de la interfaz grafica y la de comandos, para comprender a mas detalles como es que estos son utiles al igual que con ello comprender como hacer un sistema operativo portatil para futuros proyectos
 
+Proyecto App
+
+
+Sebastian Mejia
+
+En esta vemos lenguajes y programas aracaicos para realizar esquemas, como los de caso de usos y my SQL, ademas de latex para redaccion de texto (en Lugar de .md que es mas facil y practico para casos reales) (Enseñenos tambien desarrollo de app profe, andale)
+
 Diseño de Videjuegos
 
 Hector Guerrero
 
-  En esta clase vemos los principios de como es el uso de programas enfocados en diseño, como lo es photoshop y como es que se tiene que generar una narrativa a lo que se crea, ademas de que vemos como poder usar estos programas para la creacion de escenarios, personajes e ideas mas conceptuales para futuras referencias de nuestros proyectos 
+En esta materia vemos el como es el desarrollo de juegos y como es que esteticamente hablando todo lo que se haga en un juego tiene que estar acorde a este de forma visual, como tambien vemos diferentes herramientas de trabajo para crear difernetes tipos de juegos sin codigo, ya sea juego de mesa, juegos de texto etc.
