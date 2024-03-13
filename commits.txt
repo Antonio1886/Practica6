@@ -1,0 +1,76 @@
+commit ca649bc91f032d7274daa32be5f9681d67ddf54d
+Merge: e4a2d8f d3526d3
+Author: Antonio Perez <joseantoniopi8@gmail.com>
+Date:   Wed Mar 13 01:01:05 2024 -0600
+
+    Merge branch 'Ingles_B2'
+
+commit e4a2d8f7dd7ce7751abb2397377d0d79434a4bba
+Merge: 8e0014c 5f260d0
+Author: Antonio Perez <joseantoniopi8@gmail.com>
+Date:   Wed Mar 13 00:56:09 2024 -0600
+
+    Merge branch 'Proyecto_App'
+
+commit 8e0014c3c6c279ec891839d6b4db419b4da917ae
+Merge: fb86302 f5292f8
+Author: Antonio Perez <joseantoniopi8@gmail.com>
+Date:   Wed Mar 13 00:36:54 2024 -0600
+
+    Merge branch 'Diseño_Videojuegos'
+
+commit fb86302af3e5fa399fd8acdbfd5e67b05bf9db27
+Merge: 0e9ff72 9953d5a
+Author: Antonio Perez <joseantoniopi8@gmail.com>
+Date:   Wed Mar 13 00:36:14 2024 -0600
+
+    Merge branch 'Principio_Composicion'
+
+commit 0e9ff72aff33c88037fc28d09ebe123a460cada1
+Merge: 44eb11a b0da834
+Author: Antonio Perez <joseantoniopi8@gmail.com>
+Date:   Wed Mar 13 00:34:54 2024 -0600
+
+    Merge branch 'Sistemas_Operativos'
+
+commit d3526d3b054b11e1756a5d37dee3504f3fa05066
+Author: Antonio Perez <joseantoniopi8@gmail.com>
+Date:   Wed Mar 13 00:28:43 2024 -0600
+
+    Agregando ingles
+
+commit 5f260d067d434585d25b2984c97356ba677cc39f
+Author: Antonio Perez <joseantoniopi8@gmail.com>
+Date:   Wed Mar 13 00:25:39 2024 -0600
+
+    Agregando Proyecto app
+
+commit f5292f8ef4ac162a5c55944a783828223788da4e
+Author: Antonio Perez <joseantoniopi8@gmail.com>
+Date:   Wed Mar 13 00:14:16 2024 -0600
+
+    Agregando Diseño de Videojuegos
+
+commit 9953d5a87d270500f0afc46ead2069f1eb7f76c1
+Author: Antonio Perez <joseantoniopi8@gmail.com>
+Date:   Wed Mar 13 00:06:22 2024 -0600
+
+    Agregando Principio y Composicion
+
+commit b0da834b0ff57e7976a7ba3603d8ca1f9473aa09
+Author: Antonio Perez <joseantoniopi8@gmail.com>
+Date:   Tue Mar 12 23:59:16 2024 -0600
+
+    Agregando Sistemas Operativos
+
+commit 44eb11a350810b1544ae3afa4fd6b42891df425e
+Author: Antonio Perez <joseantoniopi8@gmail.com>
+Date:   Tue Mar 12 23:54:09 2024 -0600
+
+    Agregando Lenguajes Interpretados
+
+commit 35573d872f948b300614efa452ba41272b13ef5b
+Author: Antonio Perez <joseantoniopi8@gmail.com>
+Date:   Tue Mar 12 23:45:34 2024 -0600
+
+    primer commit
