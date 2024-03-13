@@ -1,5 +1,6 @@
 JOSE ANTONIO PEREZ ISLAS
 
+
 Lenguajes Interpretados
 
 Profesor jonathan Miranda
@@ -32,5 +33,7 @@ Alina Sidorova
 
 En esta clase vemos la base del lenguaje en ingles, viendo como que es la diferencia de un mensaje dependiendo del contexto y del tiempo en el cual se habala para crear una conversacion mas fluida y diestra con un lenguaje externo al nativo
 
-
 Creando version 1.0.0
+
+creando la versión 1.1.0 de este repositorio.
+
