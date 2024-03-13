@@ -1,8 +1,7 @@
 JOSE ANTONIO PEREZ ISLAS
 
-Proyecto App
+Ingles B2
 
+Alina Sidorova
 
-Sebastian Mejia
-
-En esta vemos lenguajes y programas aracaicos para realizar esquemas, como los de caso de usos y my SQL, ademas de latex para redaccion de texto (en Lugar de .md que es mas facil y practico para casos reales) (Enseñenos tambien desarrollo de app profe, andale)
+En esta clase vemos la base del lenguaje en ingles, viendo como que es la diferencia de un mensaje dependiendo del contexto y del tiempo en el cual se habala para crear una conversacion mas fluida y diestra con un lenguaje externo al nativo
