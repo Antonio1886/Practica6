@@ -1,7 +1,7 @@
 JOSE ANTONIO PEREZ ISLAS
 
-  Principio Composicion
+Diseño de Videjuegos
 
-  Roberto Melo
+Hector Guerrero
 
-  En esta clase vemos los principios de como es el uso de programas enfocados en diseño, como lo es photoshop y como es que se tiene que generar una narrativa a lo que se crea, ademas de que vemos como poder usar estos programas para la creacion de escenarios, personajes e ideas mas conceptuales para futuras referencias de nuestros proyectos 
+En esta materia vemos el como es el desarrollo de juegos y como es que esteticamente hablando todo lo que se haga en un juego tiene que estar acorde a este de forma visual, como tambien vemos diferentes herramientas de trabajo para crear difernetes tipos de juegos sin codigo, ya sea juego de mesa, juegos de texto etc.
